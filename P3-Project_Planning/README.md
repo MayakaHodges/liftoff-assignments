@@ -11,6 +11,8 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 * https://github.com/MayakaHodges/liftoff-assignments/blob/master/P3-Project_Planning/Event%20List.png
+![Event List](/Event List.png)
+Format: ![Event List](https://github.com/MayakaHodges/liftoff-assignments/blob/master/P3-Project_Planning/Event%20List.png)
 * https://github.com/MayakaHodges/liftoff-assignments/blob/master/P3-Project_Planning/Add%20Event.png
 * https://github.com/MayakaHodges/liftoff-assignments/blob/master/P3-Project_Planning/Volunteer%20List.png
 * https://github.com/MayakaHodges/liftoff-assignments/blob/master/P3-Project_Planning/Add%20Volunteer.png
@@ -26,4 +28,4 @@ For this assignment, you'll create some initial plans for your project.
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
-https://github.com/MayakaHodges/VolunteerEventLog
+* https://github.com/MayakaHodges/VolunteerEventLog
